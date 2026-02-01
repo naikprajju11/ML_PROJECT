@@ -4,4 +4,4 @@ class CustomerData(BaseModel):
     tenure:int
     MonthlyCharges:float
     TotalCharges:float
-    SeniorCitizen:float
+    SeniorCitizen:int
